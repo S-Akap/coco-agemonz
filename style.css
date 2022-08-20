@@ -190,6 +190,11 @@ body{
     justify-content: center;
     background-color: rgba(240, 247, 249, 0.5);
 }
+.pop-inner > a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .pop-a{
     width: 145px;
 }
